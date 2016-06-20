@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="mr87f.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mr87v.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mraes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mralloc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrarth0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrarth1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrarth2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrarth3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrbits.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrbrick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrbuild.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrcore.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrcrt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrcurve.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrdouble.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrebrick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrec2m.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrecn2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrfast.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrflash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrflsh1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrflsh2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrflsh3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrflsh4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrfpe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrfrnd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrgcd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrgcm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrgf2m.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrio1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrio2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrjack.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrlucas.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrmonty.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrmuldv.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrpi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrpower.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrprime.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrrand.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrround.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrscrt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrsha3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrshs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrshs256.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrshs512.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrsmall.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrsroot.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrstrong.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrxgcd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrzzn2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrzzn2b.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrzzn3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mrzzn4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="mrcomba.tpl">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mrcomba2.tpl">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mrkcm.tpl">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mrmuldv.any">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mrmuldv.c32">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mrmuldv.ccc">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mrmuldv.g64">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mrmuldv.gcc">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mrmuldv.gpp">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mrmuldv.ppc">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mrmuldv.s">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mrmuldv.s64">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mrmuldv.tcc">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mrmuldv.w64">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
